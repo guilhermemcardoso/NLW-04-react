@@ -14,7 +14,9 @@
 ![Screenshot](https://raw.githubusercontent.com/guilhermemcardoso/NLW-04-react/main/.github/print.png)
 
 The project is based on the Pomodoro technique and integrates it with a list of exercises that you can practice during your intervals.
+
 The list of exercises contains exercises for your body and your eyes because the main goal is helping people that stays a lot of your in front of a computer screen.
+
 This project was developed during the Next Level Week 04, idealized by [Rocketseat](https://github.com/rocketseat). I thank all those responsible for creating the event. It was incredible.
 ## Live demo
 You can see a live demo [here](https://moveit-sigma-lyart.vercel.app/).
