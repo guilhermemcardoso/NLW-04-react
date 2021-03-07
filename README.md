@@ -3,11 +3,11 @@
 ![LICENSE](https://img.shields.io/badge/license-MIT-green) ![Next Version](https://img.shields.io/badge/next.js-10.0.7-blueviolet) ![Next Version](https://img.shields.io/badge/react-17.0.1-blue)
 ## Table of contents
 
-[1. Introduction](#introduction)
-[2. Live demo](#live-demo)
-[3. Technologies](#technologies)
-[4. Getting started](#getting-started)
-[5. License](#license)
+1. [Introduction](#introduction)
+2. [Live demo](#live-demo)
+3. [Technologies](#technologies)
+4. [Getting started](#getting-started)
+5. [License](#license)
 
 ## Introduction
 
